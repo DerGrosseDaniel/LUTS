@@ -12,7 +12,7 @@ This Lut helps you to get the perfect temperature for your white balance.
 
 This LUT removes the tint component from an image and extremely accentuated the blue and yellow saturation. You can use this so see the temperature of different parts of the image. Only parts which are perfect neutral will be grey, all other parts will be extremely yellow or blue.
 
-[Download WB_Temperature_V3.cube](WB_Temperature_V3.cube?raw=true)
+[Download WB_Temperature_V3.cube](WB_Temperature_V3.cube)
 
 ![WB_Temperature_V3.cube](Screenshots/WB_Temperature_V3.png?raw=true)
 
